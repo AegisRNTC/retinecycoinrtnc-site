@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2025-11-27T20:28:07Z",
+  "unit": "RTNC",
+  "network": "DEV-LTC-FORK",
+  "totals": {
+    "total_mined": 9750.00000000,
+    "circulating_supply": 2810.50000000
+  },
+  "treasury": {
+    "SRF":  5242.12500000,
+    "DF":   1397.90000000,
+    "IIF":  299.47500000,
+    "MYDF": 0E-8
+  }
+}
